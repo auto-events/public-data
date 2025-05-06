@@ -5,14 +5,5 @@
   "date": "2025-05-01",
   "status": "In Progress",
   "thumbnail": "images/thumbnail.png",
-  "documents": [
-    {
-      "name": "Project Report",
-      "filename": "files/document1.pdf"
-    },
-    {
-      "name": "Code Files",
-      "filename": "files/document2.docx"
-    }
-  ]
+  "noofdocuments": "2"
 }
