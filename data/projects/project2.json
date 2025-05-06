@@ -1,0 +1,14 @@
+{
+  "title": "Project Two",
+  "description": "This is the second project. It involves creating a mobile app using Expo.",
+  "tags": ["Mobile App", "Expo", "Android", "iOS"],
+  "date": "2025-06-15",
+  "status": "Completed",
+  "thumbnail": "images/thumbnail.png",
+  "documents": [
+    {
+      "name": "App Design",
+      "filename": "files/document1.pdf"
+    }
+  ]
+}
