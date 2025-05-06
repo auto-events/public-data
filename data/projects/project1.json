@@ -1,0 +1,18 @@
+{
+  "title": "Project One",
+  "description": "This is the first project. It includes detailed work on building a web application.",
+  "tags": ["Web Development", "React", "Expo"],
+  "date": "2025-05-01",
+  "status": "In Progress",
+  "thumbnail": "images/thumbnail.png",
+  "documents": [
+    {
+      "name": "Project Report",
+      "filename": "files/document1.pdf"
+    },
+    {
+      "name": "Code Files",
+      "filename": "files/document2.docx"
+    }
+  ]
+}
